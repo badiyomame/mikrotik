@@ -1,0 +1,2 @@
+/ip firewall layer7-protocol
+add name=youtube regexp="r[0-9]+---[a-z]+-+[a-z0-9-]+\\.googlevideo\\.com"
